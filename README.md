@@ -14,9 +14,14 @@ This loan calculator has two tabs:
 - Loan with financial assistance: This is a calculator that allows you to specify how many people are supporting you on the loan payment (contributions).
 
 
-
+Image 1:
 ![loan_calculator_1](images/loan_calculator_1.png)
+
+Image 2:
 ![loan_calculator_2](images/loan_calculator_2.png)
+
+Image 3:
+![loan_calculator_3](images/loan_calculator_3.png)
 
 
 # Get Started
