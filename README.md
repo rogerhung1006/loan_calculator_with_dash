@@ -4,14 +4,14 @@
 ### Topic: Loan Analytics
 ### Author: Roger Hung
 <br >
-<strong>This loan calculator is capable of computing the the amortization schedule of a personal loan or even a loan portfolio. On top of that, this application can also takes into account multiple contributions from different people, say your family member or friends.</strong> <br >
+<strong>This loan calculator is capable of computing the the amortization schedule of a personal loan or even a loan portfolio. On top of that, this application can also take into account multiple contributions from different people, say your family member or friends.</strong> <br >
 
 <br >
 This loan calculator has two tabs:
 
-- Loan portfolio calculator: Here you can enter information about your loans, including principal, interest rate, payment, extra payment for up to three loans. 
+- Loan portfolio calculator: Here you can enter information of your loans, including principal, interest rate, payment, extra payment for up to three loans. 
 
-- Loan with financial assistance: This is a calculator that allows you to specify how many people are supporting you on the loan payment.
+- Loan with financial assistance: This is a calculator that allows you to specify how many people are supporting you on the loan payment (contributions).
 
 
 
